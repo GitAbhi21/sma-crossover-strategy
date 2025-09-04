@@ -1,0 +1,8 @@
+{
+  "default_symbol": "RELIANCE.NS",
+  "symbols": [
+    { "symbol": "RELIANCE.NS", "type": "equity", "exchange": "NSE", "currency": "INR" },
+    { "symbol": "ADANIENT.NS", "type": "equity", "exchange": "NSE", "currency": "INR" },
+    { "symbol": "TCS.NS", "type": "equity", "exchange": "NSE", "currency": "INR" }
+  ]
+}
