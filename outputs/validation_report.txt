@@ -1,0 +1,8 @@
+Validation Report
+=================
+Start date: 2025-06-04
+End date:   2025-09-04
+Days span:  92 days (~3.1 months)
+Rows before: 198
+Rows after dropping bad OHLC: 198
+Final rows kept: 198
